@@ -1,0 +1,7 @@
+PROCESO PARA CORRER EL PROYECTO
+
+1.- Crear la base de datos fotosparati en PostgresSQL
+2.- Cargar el archivo sql (fotosparati.sql) a la base de datos
+3.- Ejecutar desde Node npm install para decargar los modulos node
+4.- Ingresar al localhost:1337 por el navegador
+5.- Los datos de usuarios y administradores estan en la tablas repectivas cargadas a la base de datos
